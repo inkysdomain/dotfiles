@@ -1,0 +1,904 @@
+2020-08-25 15:22:36.315 (0x7ffeed1e5fb0) Debug: New PolkitAgentListener  0x56281dc74a00
+2020-08-25 15:22:36.315 (0x7ffeed1e5fb0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffeed1e5fc0) for  0x56281dc74a00
+2020-08-25 15:22:36.450 (0x7ffe57c201b0) Warning: Icon theme "elementary" not found.
+2020-08-25 15:22:36.531 (0x7ffe248f9790) Warning: Icon theme "elementary" not found.
+2020-08-25 15:22:36.538 (0x7ffe248f9790) Debug: systemd: "CanHibernate" = "na"
+2020-08-25 15:22:36.539 (0x7ffe248f9790) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-08-25 15:22:36.539 (0x7ffe248f9790) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-08-25 15:22:36.542 (0x7ffe248f9790) Debug: systemd: "CanSuspend" = "yes"
+2020-08-25 15:22:36.555 (0x7ffd455b9fe0) Debug: systemd: "CanReboot" = "yes"
+2020-08-25 15:22:36.560 (0x7ffd455b9fe0) Debug: systemd: "CanPowerOff" = "yes"
+2020-08-25 15:22:37.604 (0x7ffe57c201b0) Debug: ()
+2020-08-25 15:22:37.853 (0x7ffe57c201b0) Debug: WinIdChange 1000008 handle QWidgetWindow(0x564ee495da70, name="LXQtPanel panel1Window") QScreen(0x564ee46bb8c0, name="eDP-1")
+2020-08-25 15:22:37.872 (0x7ffe57c201b0) Debug: Systray started
+2020-08-25 15:22:38.177 (0x7ffd9e8ff440) Warning: Icon theme "elementary" not found.
+2020-08-25 15:22:38.215 (0x7fffb06a6ac0) Warning: Icon theme "elementary" not found.
+2020-08-25 15:22:38.222 (0x7fffb06a6ac0) Debug: BatteryChanged discharging: true chargeLevel: nan actionTime: QTime(Invalid)
+2020-08-25 15:22:38.226 (0x7fffb06a6ac0) Debug: Inhibit got: 24
+2020-08-25 15:22:38.582 (0x7fffb06a6ac0) Debug: Starting idlenesswatcher
+2020-08-25 15:22:38.964 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 15:22:38.965 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 15:22:38.965 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 15:58:20.817 (0x7ffd455b9fe0) Warning: "Session 'session', new input device '/dev/input/event16', keyboard setting will be (optionaly) reloaded..."
+2020-08-25 16:10:05.466 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 16:10:05.467 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 16:10:05.467 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 17:07:12.851 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 17:07:12.866 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 17:07:12.866 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 17:31:42.240 (0x7ffe57c201b0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “ToolTip”")
+2020-08-25 17:31:42.244 (0x7ffe57c201b0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “OverlayIconName”")
+2020-08-25 17:31:42.250 (0x7ffe57c201b0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “OverlayIconPixmap”")
+2020-08-25 17:31:42.251 (0x7ffe57c201b0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “AttentionIconPixmap”")
+2020-08-25 17:36:02.318 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 17:38:57.191 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 17:38:57.191 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 17:39:52.832 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 17:39:52.832 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 17:39:52.832 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 17:40:09.837 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 17:40:09.837 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 17:40:09.837 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 17:40:09.837 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:00:57.862 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:00:57.862 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:00:57.863 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:00:57.863 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:00:57.863 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:13:44.846 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:13:44.846 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:13:44.846 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:16:08.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:16:08.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:16:08.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:16:08.842 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:16:08.842 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:16:08.842 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:17:14.863 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:17:14.863 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:17:14.863 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:17:14.863 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:17:14.863 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:17:14.863 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:17:14.863 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:18:20.854 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:18:20.854 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:18:20.855 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:18:20.855 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:18:20.855 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:18:20.855 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:18:20.855 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:18:20.855 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:22:08.838 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:22:08.838 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:22:08.839 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:22:08.839 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:22:08.839 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:22:08.839 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:22:08.839 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:22:08.839 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:22:08.839 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:23:08.869 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:23:08.870 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:23:08.870 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:23:08.870 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:23:08.870 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:23:08.870 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:23:08.870 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:23:08.870 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:23:08.870 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:23:08.870 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:24:15.823 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:24:15.823 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:24:15.823 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:24:15.823 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:24:15.823 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:24:15.823 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:24:15.824 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:24:15.824 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:24:15.824 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:24:15.824 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:26:35.850 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:26:35.851 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:26:35.851 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:27:28.994 (0x7ffc1c9fd1e0) Debug: No outputs have backlight property
+2020-08-25 18:27:28.994 (0x7ffc1c9fd1e0) Debug: Found output: "eDP-1"
+2020-08-25 18:27:28.995 (0x7ffc1c9fd1e0) Debug: Output: "eDP-1" added
+2020-08-25 18:27:28.995 (0x7ffc1c9fd1e0) Debug: Found output: "DP-1"
+2020-08-25 18:27:28.995 (0x7ffc1c9fd1e0) Debug: Output is not connected
+2020-08-25 18:27:28.995 (0x7ffc1c9fd1e0) Debug: Found output: "HDMI-1"
+2020-08-25 18:27:28.995 (0x7ffc1c9fd1e0) Debug: Output is not connected
+2020-08-25 18:27:28.995 (0x7ffc1c9fd1e0) Debug: Found output: "HDMI-2"
+2020-08-25 18:27:28.995 (0x7ffc1c9fd1e0) Debug: Output is not connected
+2020-08-25 18:27:29.254 (0x7ffc7e90b530) Debug: No outputs have backlight property
+2020-08-25 18:27:29.254 (0x7ffc7e90b530) Debug: Found output: "eDP-1"
+2020-08-25 18:27:29.254 (0x7ffc7e90b530) Debug: Output: "eDP-1" added
+2020-08-25 18:27:29.254 (0x7ffc7e90b530) Debug: Found output: "DP-1"
+2020-08-25 18:27:29.254 (0x7ffc7e90b530) Debug: Output is not connected
+2020-08-25 18:27:29.255 (0x7ffc7e90b530) Debug: Found output: "HDMI-1"
+2020-08-25 18:27:29.255 (0x7ffc7e90b530) Debug: Output is not connected
+2020-08-25 18:27:29.255 (0x7ffc7e90b530) Debug: Found output: "HDMI-2"
+2020-08-25 18:27:29.255 (0x7ffc7e90b530) Debug: Output is not connected
+2020-08-25 18:27:29.463 (0x7ffcd46ec0b0) Debug: No outputs have backlight property
+2020-08-25 18:27:29.463 (0x7ffcd46ec0b0) Debug: Found output: "eDP-1"
+2020-08-25 18:27:29.464 (0x7ffcd46ec0b0) Debug: Output: "eDP-1" added
+2020-08-25 18:27:29.464 (0x7ffcd46ec0b0) Debug: Found output: "DP-1"
+2020-08-25 18:27:29.464 (0x7ffcd46ec0b0) Debug: Output is not connected
+2020-08-25 18:27:29.464 (0x7ffcd46ec0b0) Debug: Found output: "HDMI-1"
+2020-08-25 18:27:29.464 (0x7ffcd46ec0b0) Debug: Output is not connected
+2020-08-25 18:27:29.464 (0x7ffcd46ec0b0) Debug: Found output: "HDMI-2"
+2020-08-25 18:27:29.464 (0x7ffcd46ec0b0) Debug: Output is not connected
+2020-08-25 18:27:29.668 (0x7fffdfa08270) Debug: No outputs have backlight property
+2020-08-25 18:27:29.668 (0x7fffdfa08270) Debug: Found output: "eDP-1"
+2020-08-25 18:27:29.668 (0x7fffdfa08270) Debug: Output: "eDP-1" added
+2020-08-25 18:27:29.669 (0x7fffdfa08270) Debug: Found output: "DP-1"
+2020-08-25 18:27:29.669 (0x7fffdfa08270) Debug: Output is not connected
+2020-08-25 18:27:29.669 (0x7fffdfa08270) Debug: Found output: "HDMI-1"
+2020-08-25 18:27:29.669 (0x7fffdfa08270) Debug: Output is not connected
+2020-08-25 18:27:29.669 (0x7fffdfa08270) Debug: Found output: "HDMI-2"
+2020-08-25 18:27:29.669 (0x7fffdfa08270) Debug: Output is not connected
+2020-08-25 18:27:29.965 (0x7fff9fe20e90) Debug: No outputs have backlight property
+2020-08-25 18:27:29.965 (0x7fff9fe20e90) Debug: Found output: "eDP-1"
+2020-08-25 18:27:29.965 (0x7fff9fe20e90) Debug: Output: "eDP-1" added
+2020-08-25 18:27:29.965 (0x7fff9fe20e90) Debug: Found output: "DP-1"
+2020-08-25 18:27:29.965 (0x7fff9fe20e90) Debug: Output is not connected
+2020-08-25 18:27:29.965 (0x7fff9fe20e90) Debug: Found output: "HDMI-1"
+2020-08-25 18:27:29.965 (0x7fff9fe20e90) Debug: Output is not connected
+2020-08-25 18:27:29.966 (0x7fff9fe20e90) Debug: Found output: "HDMI-2"
+2020-08-25 18:27:29.966 (0x7fff9fe20e90) Debug: Output is not connected
+2020-08-25 18:27:30.232 (0x7ffcb83cb200) Debug: No outputs have backlight property
+2020-08-25 18:27:30.232 (0x7ffcb83cb200) Debug: Found output: "eDP-1"
+2020-08-25 18:27:30.232 (0x7ffcb83cb200) Debug: Output: "eDP-1" added
+2020-08-25 18:27:30.232 (0x7ffcb83cb200) Debug: Found output: "DP-1"
+2020-08-25 18:27:30.233 (0x7ffcb83cb200) Debug: Output is not connected
+2020-08-25 18:27:30.233 (0x7ffcb83cb200) Debug: Found output: "HDMI-1"
+2020-08-25 18:27:30.233 (0x7ffcb83cb200) Debug: Output is not connected
+2020-08-25 18:27:30.233 (0x7ffcb83cb200) Debug: Found output: "HDMI-2"
+2020-08-25 18:27:30.233 (0x7ffcb83cb200) Debug: Output is not connected
+2020-08-25 18:27:30.443 (0x7fffaf184dc0) Debug: No outputs have backlight property
+2020-08-25 18:27:30.443 (0x7fffaf184dc0) Debug: Found output: "eDP-1"
+2020-08-25 18:27:30.444 (0x7fffaf184dc0) Debug: Output: "eDP-1" added
+2020-08-25 18:27:30.444 (0x7fffaf184dc0) Debug: Found output: "DP-1"
+2020-08-25 18:27:30.444 (0x7fffaf184dc0) Debug: Output is not connected
+2020-08-25 18:27:30.444 (0x7fffaf184dc0) Debug: Found output: "HDMI-1"
+2020-08-25 18:27:30.444 (0x7fffaf184dc0) Debug: Output is not connected
+2020-08-25 18:27:30.444 (0x7fffaf184dc0) Debug: Found output: "HDMI-2"
+2020-08-25 18:27:30.444 (0x7fffaf184dc0) Debug: Output is not connected
+2020-08-25 18:27:30.708 (0x7ffcdc6ae800) Debug: No outputs have backlight property
+2020-08-25 18:27:30.708 (0x7ffcdc6ae800) Debug: Found output: "eDP-1"
+2020-08-25 18:27:30.708 (0x7ffcdc6ae800) Debug: Output: "eDP-1" added
+2020-08-25 18:27:30.709 (0x7ffcdc6ae800) Debug: Found output: "DP-1"
+2020-08-25 18:27:30.709 (0x7ffcdc6ae800) Debug: Output is not connected
+2020-08-25 18:27:30.709 (0x7ffcdc6ae800) Debug: Found output: "HDMI-1"
+2020-08-25 18:27:30.709 (0x7ffcdc6ae800) Debug: Output is not connected
+2020-08-25 18:27:30.709 (0x7ffcdc6ae800) Debug: Found output: "HDMI-2"
+2020-08-25 18:27:30.709 (0x7ffcdc6ae800) Debug: Output is not connected
+2020-08-25 18:31:21.881 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:31:21.881 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:31:21.881 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:35:37.178 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:35:37.178 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:35:37.178 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:35:37.178 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:35:37.178 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:35:37.178 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:35:37.179 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:35:37.179 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:35:37.179 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:35:37.179 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:40:28.951 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:40:28.951 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:40:28.951 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:40:28.951 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:40:28.951 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:40:28.951 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:40:28.951 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:40:28.951 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:40:28.951 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:40:28.951 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:13.849 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:13.849 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:13.849 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:13.850 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:13.850 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:13.850 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:13.850 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:13.850 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:13.850 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:13.850 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:50.628 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:50.628 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:50.628 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:50.628 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:50.628 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:50.628 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:50.628 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:50.628 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:50.628 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:41:50.628 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:46:29.352 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:46:29.352 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:46:29.352 (0x7ffe57c201b0) Debug: Unknown property margin-button
+2020-08-25 18:58:17.844 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:58:17.844 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:58:17.844 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:58:17.844 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:58:17.844 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:58:17.844 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:58:17.844 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:58:17.844 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:58:17.844 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:58:17.844 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:59:41.840 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:59:41.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:59:41.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:59:41.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:59:41.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:59:41.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:59:41.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:59:41.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:59:41.841 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 18:59:41.842 (0x7ffd9e8ff440) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-25 19:06:22.606 (0x7ffe57c201b0) Debug: Service "org.freedesktop.StatusNotifierItem-1462-1" unregistered
+2020-08-25 19:06:22.620 (0x7ffe57c201b0) Warning: The X11 connection broke: I/O error (code 1)
+2020-08-25 19:06:24.964 (0x7ffd455b9fe0) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2020-08-25 19:06:24.965 (0x7ffd455b9fe0) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2020-08-25 19:21:38.200 (0x7ffc89892b50) Debug: New PolkitAgentListener  0x55dd8f99d600
+2020-08-25 19:21:38.217 (0x7ffc89892b50) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc89892b60) for  0x55dd8f99d600
+2020-08-25 19:21:38.545 (0x7ffcdc04b520) Debug: systemd: "CanHibernate" = "na"
+2020-08-25 19:21:38.545 (0x7ffcdc04b520) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-08-25 19:21:38.545 (0x7ffcdc04b520) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-08-25 19:21:38.548 (0x7ffcdc04b520) Debug: systemd: "CanSuspend" = "yes"
+2020-08-25 19:21:38.556 (0x7ffe48b66860) Debug: systemd: "CanReboot" = "yes"
+2020-08-25 19:21:38.561 (0x7ffe48b66860) Debug: systemd: "CanPowerOff" = "yes"
+2020-08-25 19:21:38.965 (0x7ffd92100ba0) Debug: ()
+2020-08-25 19:21:39.710 (0x7ffd92100ba0) Debug: WinIdChange 1000008 handle QWidgetWindow(0x562740185c30, name="LXQtPanel panel1Window") QScreen(0x56273ff73960, name="eDP-1")
+2020-08-25 19:21:39.719 (0x7ffd92100ba0) Debug: Systray started
+2020-08-25 19:21:39.824 (0x7ffd92100ba0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “ToolTip”")
+2020-08-25 19:21:39.828 (0x7ffd92100ba0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “OverlayIconName”")
+2020-08-25 19:21:39.828 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:39.828 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:39.829 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:39.829 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:39.829 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:39.839 (0x7ffd92100ba0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “OverlayIconPixmap”")
+2020-08-25 19:21:39.840 (0x7ffd92100ba0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “AttentionIconPixmap”")
+2020-08-25 19:21:39.902 (0x7fff059a7410) Debug: Inhibit got: 18
+2020-08-25 19:21:39.903 (0x7fff059a7410) Debug: Starting idlenesswatcher
+2020-08-25 19:21:42.690 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.691 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.691 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.691 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.691 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.691 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.691 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.692 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.692 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.693 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.693 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.693 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.693 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.693 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.694 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.694 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.694 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:42.694 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:21:43.323 (0x7ffeb70e5fa0) Warning: QVariant::load: unable to load type 1034.
+2020-08-25 19:21:43.323 (0x7ffeb70e5fa0) Warning: QVariant::load: unable to load type 1034.
+2020-08-25 19:21:43.323 (0x7ffeb70e5fa0) Warning: QVariant::load: unable to load type 1034.
+2020-08-25 19:21:43.323 (0x7ffeb70e5fa0) Warning: QVariant::load: unable to load type 1034.
+2020-08-25 19:21:43.323 (0x7ffeb70e5fa0) Warning: QVariant::load: unable to load type 1034.
+2020-08-25 19:21:43.323 (0x7ffeb70e5fa0) Warning: QVariant::load: unable to load type 1034.
+2020-08-25 19:21:43.323 (0x7ffeb70e5fa0) Warning: QVariant::load: unable to load type 1034.
+2020-08-25 19:21:43.323 (0x7ffeb70e5fa0) Warning: QVariant::load: unable to load type 1034.
+2020-08-25 19:21:43.324 (0x7ffeb70e5fa0) Warning: QVariant::load: unable to load type 1034.
+2020-08-25 19:21:43.324 (0x7ffeb70e5fa0) Warning: QVariant::load: unable to load type 1034.
+2020-08-25 19:24:05.032 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.032 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.032 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.032 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.032 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.032 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.032 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.034 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.034 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.034 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.034 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.034 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.034 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:24:05.034 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:25:55.131 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:25:55.133 (0x7ffd92100ba0) Warning: [31mvoid DBusMenuImporterPrivate::updateActionProperty(QAction*, const QString&, const QVariant&)[0m: Unhandled property update "accessible-desc"
+2020-08-25 19:27:37.529 (0x7ffd92100ba0) Warning: The X11 connection broke: I/O error (code 1)
+2020-08-25 19:27:39.641 (0x7ffe48b66860) Warning: Module lxqt-panel.desktop won't terminate ... killing.
+2020-08-25 19:27:39.642 (0x7ffe48b66860) Warning: QProcess: Destroyed while process ("lxqt-panel") is still running.
+2020-08-26 14:14:15.592 (0x7ffe962b9760) Warning: "Icon Theme not set. Fallbacking to Oxygen, if installed"
+2020-08-26 14:14:15.767 (0x7ffe962b9760) Debug: WinIdChange 1000006 handle QWidgetWindow(0x55e04d397ce0, name="LXQtPanel panel1Window") QScreen(0x55e04d33aff0, name="eDP-1")
+2020-08-26 14:19:22.528 (0x7ffc2bdcb2f0) Debug: New PolkitAgentListener  0x5582d1260800
+2020-08-26 14:19:22.560 (0x7ffc2bdcb2f0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffc2bdcb300) for  0x5582d1260800
+2020-08-26 14:19:22.806 (0x7ffdc4f35af0) Debug: systemd: "CanHibernate" = "na"
+2020-08-26 14:19:22.806 (0x7ffdc4f35af0) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-08-26 14:19:22.807 (0x7ffdc4f35af0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-08-26 14:19:22.810 (0x7ffdc4f35af0) Debug: systemd: "CanSuspend" = "yes"
+2020-08-26 14:19:22.819 (0x7fff27fa4fe0) Debug: systemd: "CanReboot" = "yes"
+2020-08-26 14:19:22.823 (0x7fff27fa4fe0) Debug: systemd: "CanPowerOff" = "yes"
+2020-08-26 14:19:24.077 (0x7ffff4db9ae0) Debug: ()
+2020-08-26 14:19:24.326 (0x7ffff4db9ae0) Debug: WinIdChange e00008 handle QWidgetWindow(0x5558306c9c10, name="LXQtPanel panel1Window") QScreen(0x55583042a820, name="eDP-1")
+2020-08-26 14:19:24.335 (0x7ffff4db9ae0) Debug: Systray started
+2020-08-26 14:19:24.546 (0x7ffdc5c330d0) Debug: Inhibit got: 18
+2020-08-26 14:19:24.546 (0x7ffdc5c330d0) Debug: Starting idlenesswatcher
+2020-08-26 14:19:25.394 (0x7ffff4db9ae0) Debug: Unknown property margin-button
+2020-08-26 14:19:25.394 (0x7ffff4db9ae0) Debug: Unknown property margin-button
+2020-08-26 14:19:25.394 (0x7ffff4db9ae0) Debug: Unknown property margin-button
+2020-08-26 14:19:27.510 (0x7fff91dadb20) Warning: QVariant::load: unable to load type 1027.
+2020-08-26 14:19:27.511 (0x7fff91dadb20) Warning: QVariant::load: unable to load type 1027.
+2020-08-26 14:19:27.511 (0x7fff91dadb20) Warning: QVariant::load: unable to load type 1027.
+2020-08-26 14:19:27.511 (0x7fff91dadb20) Warning: QVariant::load: unable to load type 1027.
+2020-08-26 14:19:27.511 (0x7fff91dadb20) Warning: QVariant::load: unable to load type 1027.
+2020-08-26 14:19:27.511 (0x7fff91dadb20) Warning: QVariant::load: unable to load type 1027.
+2020-08-26 14:19:27.511 (0x7fff91dadb20) Warning: QVariant::load: unable to load type 1027.
+2020-08-26 14:19:27.511 (0x7fff91dadb20) Warning: QVariant::load: unable to load type 1027.
+2020-08-26 14:19:27.512 (0x7fff91dadb20) Warning: QVariant::load: unable to load type 1027.
+2020-08-26 14:19:27.512 (0x7fff91dadb20) Warning: QVariant::load: unable to load type 1027.
+2020-08-26 14:25:27.792 (0x7ffff4db9ae0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1432, resource id: 29360154, major code: 18 (ChangeProperty), minor code: 0
+2020-08-26 14:26:00.542 (0x7ffff4db9ae0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1810, resource id: 33554435, major code: 18 (ChangeProperty), minor code: 0
+2020-08-26 14:26:40.779 (0x7ffff4db9ae0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1951, resource id: 29360172, major code: 18 (ChangeProperty), minor code: 0
+2020-08-27 17:09:34.367 (0x7ffe9d0c0d00) Debug: New PolkitAgentListener  0x55ca93ff0800
+2020-08-27 17:09:34.390 (0x7ffe9d0c0d00) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe9d0c0d10) for  0x55ca93ff0800
+2020-08-27 17:09:34.620 (0x7ffecf9a2b30) Debug: systemd: "CanHibernate" = "na"
+2020-08-27 17:09:34.620 (0x7ffecf9a2b30) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-08-27 17:09:34.621 (0x7ffecf9a2b30) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-08-27 17:09:34.623 (0x7ffecf9a2b30) Debug: systemd: "CanSuspend" = "yes"
+2020-08-27 17:09:34.633 (0x7fff91713c00) Debug: systemd: "CanReboot" = "yes"
+2020-08-27 17:09:34.637 (0x7fff91713c00) Debug: systemd: "CanPowerOff" = "yes"
+2020-08-27 17:09:35.936 (0x7ffc2e109900) Debug: ()
+2020-08-27 17:09:36.200 (0x7ffc2e109900) Debug: WinIdChange 1000008 handle QWidgetWindow(0x555b1dd0d4c0, name="LXQtPanel panel1Window") QScreen(0x555b1da6f840, name="eDP-1")
+2020-08-27 17:09:36.214 (0x7ffc2e109900) Debug: Systray started
+2020-08-27 17:09:36.399 (0x7fff41712ca0) Debug: Inhibit got: 18
+2020-08-27 17:09:36.399 (0x7fff41712ca0) Debug: Starting idlenesswatcher
+2020-08-27 17:09:37.273 (0x7ffc2e109900) Debug: Unknown property margin-button
+2020-08-27 17:09:37.273 (0x7ffc2e109900) Debug: Unknown property margin-button
+2020-08-27 17:09:37.273 (0x7ffc2e109900) Debug: Unknown property margin-button
+2020-08-27 17:10:05.057 (0x7ffc2e109900) Warning: QSvgHandler: Image filename is empty
+2020-08-27 17:10:05.058 (0x7ffc2e109900) Warning: /usr/share/icons/hicolor/scalable/apps/usb-creator-kde.svg:1584:45: Could not resolve property: #linearGradient5167
+2020-08-27 17:10:05.059 (0x7ffc2e109900) Warning: QSvgHandler: Image filename is empty
+2020-08-27 17:10:05.060 (0x7ffc2e109900) Warning: /usr/share/icons/hicolor/scalable/apps/usb-creator-kde.svg:1584:45: Could not resolve property: #linearGradient5167
+2020-08-27 17:10:05.060 (0x7ffc2e109900) Warning: QSvgHandler: Image filename is empty
+2020-08-27 17:10:05.061 (0x7ffc2e109900) Warning: /usr/share/icons/hicolor/scalable/apps/usb-creator-kde.svg:1584:45: Could not resolve property: #linearGradient5167
+2020-08-27 17:10:05.634 (0x7ffc2e109900) Warning: QSvgHandler: Image filename is empty
+2020-08-27 17:10:05.635 (0x7ffc2e109900) Warning: /usr/share/icons/hicolor/scalable/apps/usb-creator-kde.svg:1584:45: Could not resolve property: #linearGradient5167
+2020-08-27 17:10:28.768 (0x7ffc2e109900) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “ToolTip”")
+2020-08-27 17:10:28.769 (0x7ffc2e109900) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “OverlayIconName”")
+2020-08-27 17:10:28.779 (0x7ffc2e109900) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “OverlayIconPixmap”")
+2020-08-27 17:10:28.779 (0x7ffc2e109900) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “AttentionIconPixmap”")
+2020-08-27 17:10:33.646 (0x7fff91713c00) Warning: "Session 'session', new input device '/dev/input/event13', keyboard setting will be (optionaly) reloaded..."
+2020-08-27 18:23:08.349 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 18:46:12.346 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 18:46:12.346 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 18:48:56.348 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 18:48:56.348 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 18:48:56.348 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 18:58:18.330 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 18:58:18.330 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 18:58:18.330 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 18:58:18.330 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:21:53.343 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:21:53.343 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:21:53.344 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:21:53.344 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:21:53.344 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:23:52.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:23:52.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:23:52.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:23:52.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:23:52.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:23:52.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:29:50.334 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:29:50.334 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:29:50.334 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:29:50.335 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:29:50.335 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:29:50.335 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 19:29:50.335 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:24.351 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:24.351 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:24.351 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:24.351 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:24.351 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:24.351 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:24.351 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:24.352 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:37.341 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:37.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:37.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:37.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:37.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:37.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:37.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:37.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:16:37.342 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:23:27.369 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:23:27.369 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:23:27.369 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:23:27.369 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:23:27.369 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:23:27.369 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:23:27.370 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:23:27.370 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:23:27.370 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:23:27.370 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:27:28.347 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:27:28.347 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:27:28.347 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:27:28.347 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:27:28.347 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:27:28.347 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:27:28.347 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:27:28.347 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:27:28.347 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:27:28.348 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:41:57.378 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:41:57.378 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:41:57.378 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:41:57.378 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:41:57.378 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:41:57.378 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:41:57.378 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:41:57.378 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:41:57.378 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 20:41:57.378 (0x7ffed683a340) Warning: QVariant::save: unable to save type 'QDBusArgument' (type id: 1027).
+
+2020-08-27 21:14:11.565 (0x7ffdf829b920) Debug: New PolkitAgentListener  0x55f5b0df8600
+2020-08-27 21:14:11.585 (0x7ffdf829b920) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffdf829b930) for  0x55f5b0df8600
+2020-08-27 21:14:11.831 (0x7ffca3a421d0) Debug: systemd: "CanHibernate" = "na"
+2020-08-27 21:14:11.832 (0x7ffca3a421d0) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-08-27 21:14:11.832 (0x7ffca3a421d0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-08-27 21:14:11.835 (0x7ffca3a421d0) Debug: systemd: "CanSuspend" = "yes"
+2020-08-27 21:14:11.845 (0x7ffd49598490) Debug: systemd: "CanReboot" = "yes"
+2020-08-27 21:14:11.849 (0x7ffd49598490) Debug: systemd: "CanPowerOff" = "yes"
+2020-08-27 21:14:13.175 (0x7ffef1492110) Debug: ()
+2020-08-27 21:14:13.425 (0x7ffef1492110) Debug: WinIdChange 1200008 handle QWidgetWindow(0x560a58e15ee0, name="LXQtPanel panel1Window") QScreen(0x560a58b72820, name="eDP-1")
+2020-08-27 21:14:13.435 (0x7ffef1492110) Debug: Systray started
+2020-08-27 21:14:13.639 (0x7ffe865da8a0) Debug: Inhibit got: 18
+2020-08-27 21:14:13.639 (0x7ffe865da8a0) Debug: Starting idlenesswatcher
+2020-08-27 21:14:14.491 (0x7ffef1492110) Debug: Unknown property margin-button
+2020-08-27 21:14:14.491 (0x7ffef1492110) Debug: Unknown property margin-button
+2020-08-27 21:14:14.491 (0x7ffef1492110) Debug: Unknown property margin-button
+2020-08-27 21:14:16.468 (0x7fffd1d794d0) Warning: QVariant::load: unable to load type 1027.
+2020-08-27 21:14:16.468 (0x7fffd1d794d0) Warning: QVariant::load: unable to load type 1027.
+2020-08-27 21:14:16.468 (0x7fffd1d794d0) Warning: QVariant::load: unable to load type 1027.
+2020-08-27 21:14:16.468 (0x7fffd1d794d0) Warning: QVariant::load: unable to load type 1027.
+2020-08-27 21:14:16.468 (0x7fffd1d794d0) Warning: QVariant::load: unable to load type 1027.
+2020-08-27 21:14:16.469 (0x7fffd1d794d0) Warning: QVariant::load: unable to load type 1027.
+2020-08-27 21:14:16.469 (0x7fffd1d794d0) Warning: QVariant::load: unable to load type 1027.
+2020-08-27 21:14:16.469 (0x7fffd1d794d0) Warning: QVariant::load: unable to load type 1027.
+2020-08-27 21:14:16.469 (0x7fffd1d794d0) Warning: QVariant::load: unable to load type 1027.
+2020-08-27 21:14:16.469 (0x7fffd1d794d0) Warning: QVariant::load: unable to load type 1027.
+2020-08-27 21:14:19.656 (0x7ffef1492110) Warning: QSvgHandler: Image filename is empty
+2020-08-27 21:14:19.657 (0x7ffef1492110) Warning: /usr/share/icons/hicolor/scalable/apps/usb-creator-kde.svg:1584:45: Could not resolve property: #linearGradient5167
+2020-08-27 21:14:19.658 (0x7ffef1492110) Warning: QSvgHandler: Image filename is empty
+2020-08-27 21:14:19.659 (0x7ffef1492110) Warning: /usr/share/icons/hicolor/scalable/apps/usb-creator-kde.svg:1584:45: Could not resolve property: #linearGradient5167
+2020-08-27 21:14:19.660 (0x7ffef1492110) Warning: QSvgHandler: Image filename is empty
+2020-08-27 21:14:19.661 (0x7ffef1492110) Warning: /usr/share/icons/hicolor/scalable/apps/usb-creator-kde.svg:1584:45: Could not resolve property: #linearGradient5167
+2020-08-27 21:14:30.797 (0x7ffef1492110) Warning: QSvgHandler: Image filename is empty
+2020-08-27 21:14:30.800 (0x7ffef1492110) Warning: /usr/share/icons/hicolor/scalable/apps/usb-creator-kde.svg:1584:45: Could not resolve property: #linearGradient5167
+2020-08-27 21:14:49.567 (0x7ffef1492110) Warning: QDBusObjectPath: invalid path "/org/gnome/font-viewer"
+2020-08-27 21:14:49.567 (0x7ffef1492110) Warning: XdgDesktopFileData::startByDBus: invalid name "org.gnome.font-viewer.desktop" of DBusActivatable .desktop file, assembled DBus object path "/org/gnome/font-viewer" is invalid!
+2020-08-27 21:17:09.991 (0x7ffef1492110) Warning: The X11 connection broke: I/O error (code 1)
+2020-08-28 12:02:11.025 (0x7ffcff11c820) Warning:   OpenType support missing for "Ani", script 12
+2020-08-28 12:02:11.084 (0x7ffcff11c820) Warning:   OpenType support missing for "Chandas", script 11
+2020-08-28 12:05:19.548 (0x7ffd5faabf60) Debug: New PolkitAgentListener  0x557930282e00
+2020-08-28 12:05:19.562 (0x7ffd5faabf60) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd5faabf70) for  0x557930282e00
+2020-08-28 12:05:19.766 (0x7ffdf00279e0) Debug: systemd: "CanHibernate" = "na"
+2020-08-28 12:05:19.767 (0x7ffdf00279e0) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-08-28 12:05:19.767 (0x7ffdf00279e0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-08-28 12:05:19.770 (0x7ffdf00279e0) Debug: systemd: "CanSuspend" = "yes"
+2020-08-28 12:05:19.779 (0x7ffcc2591980) Debug: systemd: "CanReboot" = "yes"
+2020-08-28 12:05:19.783 (0x7ffcc2591980) Debug: systemd: "CanPowerOff" = "yes"
+2020-08-28 12:05:20.903 (0x7ffcf4cdf700) Debug: ()
+2020-08-28 12:05:21.152 (0x7ffcf4cdf700) Debug: WinIdChange 1000008 handle QWidgetWindow(0x560cb7d066a0, name="LXQtPanel panel1Window") QScreen(0x560cb7a7d700, name="eDP-1")
+2020-08-28 12:05:21.162 (0x7ffcf4cdf700) Debug: Systray started
+2020-08-28 12:05:21.350 (0x7ffd95f39170) Debug: Inhibit got: 18
+2020-08-28 12:05:21.350 (0x7ffd95f39170) Debug: Starting idlenesswatcher
+2020-08-28 12:05:22.227 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:22.227 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:22.227 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:24.497 (0x7ffd99424860) Warning: QVariant::load: unable to load type 1027.
+2020-08-28 12:05:24.497 (0x7ffd99424860) Warning: QVariant::load: unable to load type 1027.
+2020-08-28 12:05:24.497 (0x7ffd99424860) Warning: QVariant::load: unable to load type 1027.
+2020-08-28 12:05:24.497 (0x7ffd99424860) Warning: QVariant::load: unable to load type 1027.
+2020-08-28 12:05:24.497 (0x7ffd99424860) Warning: QVariant::load: unable to load type 1027.
+2020-08-28 12:05:24.497 (0x7ffd99424860) Warning: QVariant::load: unable to load type 1027.
+2020-08-28 12:05:24.498 (0x7ffd99424860) Warning: QVariant::load: unable to load type 1027.
+2020-08-28 12:05:24.498 (0x7ffd99424860) Warning: QVariant::load: unable to load type 1027.
+2020-08-28 12:05:24.498 (0x7ffd99424860) Warning: QVariant::load: unable to load type 1027.
+2020-08-28 12:05:24.498 (0x7ffd99424860) Warning: QVariant::load: unable to load type 1027.
+2020-08-28 12:05:24.866 (0x7ffcf4cdf700) Warning: QSvgHandler: Image filename is empty
+2020-08-28 12:05:24.867 (0x7ffcf4cdf700) Warning: QSvgHandler: Image filename is empty
+2020-08-28 12:05:24.868 (0x7ffcf4cdf700) Warning: QSvgHandler: Image filename is empty
+2020-08-28 12:05:53.666 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:53.666 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:53.666 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:53.679 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:53.679 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:53.679 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.739 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.739 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.742 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.742 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.745 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.746 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.746 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.748 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.748 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.754 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.754 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.757 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.757 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.757 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.759 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.759 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.767 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.768 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.768 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.769 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:05:59.770 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:11.137 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:11.137 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:11.138 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:11.355 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:11.355 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:11.355 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.351 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.369 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.369 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.370 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.370 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.370 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.374 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.374 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.374 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.376 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.376 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.381 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.381 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.381 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.382 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.382 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.388 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.388 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.388 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.390 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.391 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.391 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.393 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.393 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.393 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.401 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.402 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.402 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.404 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.404 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.404 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.407 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.407 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.407 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.408 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.408 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.408 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.414 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.414 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:22.414 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.150 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.166 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.166 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.167 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.167 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.167 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.170 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.170 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.170 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.173 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.173 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.177 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.177 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.177 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.179 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.179 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.184 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.185 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.185 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.187 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.187 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.187 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.189 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.189 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.189 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.198 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.198 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.198 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.200 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.200 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.200 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.203 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.203 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.203 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.204 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.204 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.204 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.209 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.209 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:26.209 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.269 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.282 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.282 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.283 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.283 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.283 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.287 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.287 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.287 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.289 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.289 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.294 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.294 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.294 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.296 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.296 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.304 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.304 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.304 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.307 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.307 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.307 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.309 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.310 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.310 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.321 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.321 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.321 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.323 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.323 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.323 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.326 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.327 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.327 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.328 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.329 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.329 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.337 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.337 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.337 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.343 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.343 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.343 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.352 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.352 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:06:33.352 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:34:46.430 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:34:46.430 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:34:46.430 (0x7ffcf4cdf700) Debug: Unknown property margin-button
+2020-08-28 12:39:21.175 (0x7ffe72a1abf0) Warning: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
+2020-08-28 12:39:21.175 (0x7ffe72a1abf0) Warning: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
+2020-08-28 12:39:21.175 (0x7ffe72a1abf0) Warning: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
+2020-08-28 12:39:21.175 (0x7ffe72a1abf0) Warning: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
+2020-08-28 12:39:21.175 (0x7ffe72a1abf0) Warning: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
+2020-08-28 12:39:21.175 (0x7ffe72a1abf0) Warning: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
+2020-08-28 12:39:21.175 (0x7ffe72a1abf0) Warning: Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
+2020-08-28 12:39:21.178 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/8x8/legacy/"
+2020-08-28 12:39:21.178 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/16x16/legacy/"
+2020-08-28 12:39:21.178 (0x7ffe72a1abf0) Warning: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/16x16/ui/"
+2020-08-28 12:39:21.178 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/22x22/legacy/"
+2020-08-28 12:39:21.178 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/24x24/legacy/"
+2020-08-28 12:39:21.178 (0x7ffe72a1abf0) Warning: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/24x24/ui/"
+2020-08-28 12:39:21.178 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/32x32/legacy/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/32x32/ui/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/48x48/legacy/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/48x48/ui/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/64x64/legacy/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/64x64/ui/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/96x96/legacy/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/96x96/ui/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/256x256/legacy/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/512x512/legacy/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/scalable/legacy/"
+2020-08-28 12:39:21.179 (0x7ffe72a1abf0) Warning: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/scalable/ui/"

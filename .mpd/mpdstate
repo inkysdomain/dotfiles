@@ -1,0 +1,40 @@
+sw_volume: 98
+audio_device_state:1:alsamixer
+audio_device_state:1:my_fifo
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Renard feat. Futret - GABBERSTОG [MP3 V2]/01 - GABBERSTОG - Renard feat. Futret.mp3
+1:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/02 - Gai Runs at 300KMh - Renard.mp3
+2:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/03 - The Love - Renard.mp3
+3:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/01 - Intensive Care Unit - Renard.mp3
+4:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/02 - Gai Runs at 300KMh - Renard.mp3
+5:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/03 - The Love - Renard.mp3
+6:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/04 - Sam - Renard.mp3
+7:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/05 - Get Back Up - Renard.mp3
+8:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/06 - The Club - Renard.mp3
+9:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/07 - Silverboxer - Renard.mp3
+10:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/08 - Torn - Renard.mp3
+11:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/09 - Shine - Renard.mp3
+12:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/10 - Save the River Valley - Renard.mp3
+13:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/11 - Terminal - Renard.mp3
+14:Renard - Intensive Care Unit EP Extended and Remastered [MP3 V2]/12 - Forever (Early) - Renard.mp3
+15:Renard - Post-Traumatic Stress Disorder [MP3 V2]/01 - Banned Forever - Renard.mp3
+16:Renard - Post-Traumatic Stress Disorder [MP3 V2]/02 - Lets Move - Renard.mp3
+17:Renard - Post-Traumatic Stress Disorder [MP3 V2]/03 - Blue Night - Renard.mp3
+18:Renard - Post-Traumatic Stress Disorder [MP3 V2]/04 - Smoke Tower - Renard.mp3
+19:Renard - Post-Traumatic Stress Disorder [MP3 V2]/05 - Eb Hey Ba - Renard.mp3
+20:Renard - Post-Traumatic Stress Disorder [MP3 V2]/06 - Push Cycles - Renard.mp3
+21:Renard - Post-Traumatic Stress Disorder [MP3 V2]/07 - Dracula - Renard.mp3
+22:Renard - Post-Traumatic Stress Disorder [MP3 V2]/08 - The Entire World - Renard.mp3
+23:4Lung/NAUGHTY DOGGY'S TERRIBLE BADTIME TRAPCORE HELL FOR GIRLS/[INTERMISSION]_ BE A GIRL (Ft. Yo-Yo Bingo).mp3
+24:4Lung/PROBLEM PARADISE/4lung - PROBLEM PARADISE - 01 HIKIKOMORI CLOWN COLLEGE.mp3
+25:4Lung/4lung - PROBLEM CAUSER.zip/4lung - PROBLEM CAUSER - 01 SOME OF YOU BE SO FOCUSED ON THE CHEESE THAT YOU FORGET ABOUT THE TRAP.mp3
+26:4Lung/4lung - PROBLEM CAUSER.zip/4lung - PROBLEM CAUSER - 02 THE TRANSFEMININE AFFECTION INFECTION CONNECTION.mp3
+playlist_end

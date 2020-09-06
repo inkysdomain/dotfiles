@@ -1,0 +1,19 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/,$HOME/Downloads/plague/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=1026
+State=AAAA/wAAAAD9AAAAAAAAAl4AAAPQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1920=606
+splitterSizes=401,201
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/void-live-x86_64-20191109.iso
+Name1[$e]=void-live-x86_64-20191109.iso
